@@ -10,7 +10,7 @@ This repository contains custom or modified Frida scripts designed for various p
 ## Contents
 
 - **Script 1**: Single Script for Root and SSL Pinning bypass.
-- **Script 2**: Single Script for Root AES key and IV at runtime.
+- **Script 2**: Single Script for Root, AES key and IV at runtime.
 
 Each script is tailored to specific use cases, enhancing the flexibility and functionality of Frida for different applications and environments.
 
